@@ -22,6 +22,7 @@ body {
 }
 
 .page-header .header-description {
+    font-family: Arial, sans-serif;
     font-size: 1.1em;
     color: #666;
     margin-top: 10px;
