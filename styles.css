@@ -67,7 +67,7 @@ h2 {
 
 .map_chart {
     width: 100%;
-    max-width: 900px; /* Controls the width and centers the map */
+    max-width: 800px; /* Controls the width and centers the map */
     height: 500px;
     margin: 0 auto; /* Centers the map within its container */
 }
